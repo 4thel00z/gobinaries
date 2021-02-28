@@ -15,9 +15,9 @@ import (
 	"github.com/tj/go/env"
 	"golang.org/x/oauth2"
 
-	"github.com/tj/gobinaries/resolver"
-	"github.com/tj/gobinaries/server"
-	"github.com/tj/gobinaries/storage"
+	"github.com/4thel00z/gobinaries/resolver"
+	"github.com/4thel00z/gobinaries/server"
+	"github.com/4thel00z/gobinaries/storage"
 )
 
 // main

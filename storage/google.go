@@ -9,7 +9,7 @@ import (
 
 	"cloud.google.com/go/storage"
 
-	"github.com/tj/gobinaries"
+	"github.com/4thel00z/gobinaries"
 )
 
 // ErrObjectNotFound is returned from Get when no object is found for the specified key.

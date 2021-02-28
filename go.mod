@@ -1,4 +1,4 @@
-module github.com/tj/gobinaries
+module github.com/4thel00z/gobinaries
 
 go 1.13
 
@@ -11,5 +11,4 @@ require (
 	github.com/tj/go v1.8.6
 	github.com/tj/go-semver v1.0.0
 	golang.org/x/oauth2 v0.0.0-20200107190931-bf48bf16ab8d
-	gopkg.in/yaml.v2 v2.2.7 // indirect
 )

@@ -10,8 +10,8 @@ import (
 	googlestorage "cloud.google.com/go/storage"
 	"github.com/tj/assert"
 
-	"github.com/tj/gobinaries"
-	"github.com/tj/gobinaries/storage"
+	"github.com/4thel00z/gobinaries"
+	"github.com/4thel00z/gobinaries/storage"
 )
 
 // newStorage helper.

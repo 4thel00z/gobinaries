@@ -101,5 +101,5 @@ The response of this request is a Golang binary compiled for the requested os, a
 [![GoDoc](https://godoc.org/github.com/4thel00z/gobinaries?status.svg)](https://godoc.org/github.com/4thel00z/gobinaries)
 ![](https://img.shields.io/badge/license-MIT-blue.svg)
 ![](https://img.shields.io/badge/status-stable-green.svg)
-![](https://github.com/tj/gobinaries.com/workflows/Tests/badge.svg)
+![](https://github.com/4thel00z/gobinaries.com/workflows/Tests/badge.svg)
 

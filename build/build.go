@@ -12,7 +12,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/tj/gobinaries"
+	"github.com/4thel00z/gobinaries"
 )
 
 // environMap returns a map of environment variables.

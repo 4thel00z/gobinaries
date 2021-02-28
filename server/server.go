@@ -18,8 +18,8 @@ import (
 	"github.com/tj/go/http/request"
 	"github.com/tj/go/http/response"
 
-	"github.com/tj/gobinaries"
-	"github.com/tj/gobinaries/build"
+	"github.com/4thel00z/gobinaries"
+	"github.com/4thel00z/gobinaries/build"
 )
 
 // Server is the binary server.
